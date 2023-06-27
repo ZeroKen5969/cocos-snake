@@ -1,1 +1,4 @@
 frameworks/
+dist/
+publish/
+node_modules

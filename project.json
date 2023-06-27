@@ -12,13 +12,13 @@
     "modules" : ["cocos2d"],
 
     "jsList" : [
-        "src/script/storage.js",
-        "src/script/resource.js",
-        "src/script/common.js",
-        "src/script/food.js",
-        "src/script/snake.js",
-        "src/scene/game.js",
-        "src/scene/highScore.js",
-        "src/scene/menu.js"
+        "dist/script/storage.js",
+        "dist/script/resource.js",
+        "dist/script/common.js",
+        "dist/script/food.js",
+        "dist/script/snake.js",
+        "dist/scene/game.js",
+        "dist/scene/highScore.js",
+        "dist/scene/menu.js"
     ]
 }
