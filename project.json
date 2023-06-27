@@ -1,0 +1,24 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/script/storage.js",
+        "src/script/resource.js",
+        "src/script/common.js",
+        "src/script/food.js",
+        "src/script/snake.js",
+        "src/scene/game.js",
+        "src/scene/highScore.js",
+        "src/scene/menu.js"
+    ]
+}
